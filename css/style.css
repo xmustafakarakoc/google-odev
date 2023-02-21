@@ -1,0 +1,66 @@
+
+
+/* base css start */
+.center{
+    
+    text-align: center;
+   
+}
+.fontsmall{
+    font-size: small;
+}
+.height{
+    height: 75px;
+}
+.margintop{
+    margin-top: 10px;
+}
+/* base css end */
+
+/* conteiner start */
+.conteiner-s{
+    width: 90%;
+    margin: 0 auto;
+}
+.conteiner-l{
+    width: 90%;
+    margin: 0 auto
+}
+.searchbar-conteiner{
+        
+        background-color: #EEEEEE;
+        margin-bottom: 1px;
+    }
+
+.linkbar-conteiner{
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+    }
+
+.linkbar1{
+    width: 37%;
+    background-color: #7EE5DA;
+    margin: 0px 1px;
+}
+
+.linkbar2{
+    width: 275px;
+    background-color: #70CCC2;
+    margin: 0px 1px;
+    
+}
+
+.linkbar3{
+    
+    width: 585px;
+    background-color: #62B3AA;
+    margin: 0px 1px;
+    font-style: normal;
+    font-variant-caps: normal;
+    font-weight:400;
+   
+}
+
+/* conteiner end */
+
